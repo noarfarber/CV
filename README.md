@@ -4,12 +4,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                              | Description       | Tech/tools        |
+| Name                              | Description               | Tech/tools  |
 | --------------------------------- | ----------------- | ----------------- |
-| **Fridge Savant (Client/Server)** |                    | Javascript, React, Jest, Express, Node, MongoDB |
-| **Chitter**                       | A lightweight Twitter clone      | Ruby, RSpec              |
-| **BankTechTest**                  |                   | Ruby              |
-| **Notes App**                     | A webapp to do y. | Javascript              |
+| **Acebook**          | A clone of the Facebook web app| Ruby on Rails, RSpec, JavaScript, PostgreSQL, CSS, HTML |
+| **Chitter**   WIP      | A lightweight Twitter clone      | Ruby, RSpec, PostgreSQL            |
+| **Makersbnb**                  |  A clone of Airbnb                 | Ruby, Rspec, Sinatra, Capybara, PostgreSQL      |
+| **Notes App**  WIP                 |      | Javascript              |
 
 ## Work Experience
 
@@ -67,7 +67,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Le Cordon Bleu (September 2014 to June 2015)
 
 - Pastry Diploma 
--
 
 #### Any other qualifications
 
@@ -75,4 +74,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Recently started weight lifting (and loving it).
