@@ -16,27 +16,6 @@ I started my programming journey with a Python for beginners course, and I was i
 | [Chitter](https://github.com/noarfarber/chitter) | A lightweight Twitter clone, built solo | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS            |
 | [MakersBnB](https://github.com/noarfarber/MakersBnB) |  An Airbnb inspired web app, built in a 1-week group project | Ruby, Rspec, Sinatra, Capybara, PostgreSQL      |
 
-## Skills
-
-#### Self-learning
-Once I decided to become a developer my task was clear; to learn as much as I can, gain hands-on experience and develop my coding skills.
-I started with a self-led Python for beginners course and found that I enjoy learning on my own. I managed to learn the language without any prior experience with coding. Following this experience, I decided to deepen my knowledge and applied to Makers Academy. The requirements for joining the bootcamp were to complete a self-led Ruby course and to pass an interview. I completed the course, practiced coding exercises, and read a lot to gain as much knowledge as I could, resulting in being accepted to join the course.
-The bootcamp itself required learning a lot of material in a very short time and completing personal challenges over the weekends. I was able to implement my ability to motivate myself and continue to develop my skills to complete the bootcamp.
-
-#### Team Work & Communication
-When working in fast-paced kitchens, teamwork and communication are vital keys to a successful business.
-In my last role at 'Pophams' bakery, I was part of a brand new team that opened a new branch.
-Our task was to open the bakery within the deadline while learning from scratch every step of the process to create the highest-standard pastries.
-To maintain the production line organised and productive, we had to communicate well and work in collaboration. 
-I created a system that helped us to keep track of each others' work, so each of us could start the shift with a clear plan for the day. I also organised a social event to get us all closer, which helped in creating open and friendly communication.
-These actions resulted in organised and well-timed production and helped in opening the bakery within the deadline.
-My experience taught me that little can stand in the way of a dedicated team with a clear goal. This has been the driving force throughout my professional career and still guides me today.
-
-
-#### Problem Solving
-As a sous chef at 'Violet' Bakery, I was in charge of managing the daily production of bespoke cakes orders.
-I once had an incident when a cake order was missing for an important event on the same day. To send the cake for delivery on time I had to improvise and shorten a three-day process into a few hours while maintaining the highest quality of our products. To achieve this, I had to source the missing ingredients from multiple suppliers, I shifted around more flexible orders and used layers of other cakes, made a new batch of icing, and decorated the cake in record time. The cake was delivered on time and we received great feedback from the customer.
-
 ## Work Experience
 
 **Pophams Bakery** (July 2019-January 2020)  
@@ -77,6 +56,27 @@ Head Baker
 #### Le Cordon Bleu (September 2014-June 2015)
 
 Diplome De Patisserie
+
+## Skills
+
+#### Self-learning
+Once I decided to become a developer my task was clear; to learn as much as I can, gain hands-on experience and develop my coding skills.
+I started with a self-led Python for beginners course and found that I enjoy learning on my own. I managed to learn the language without any prior experience with coding. Following this experience, I decided to deepen my knowledge and applied to Makers Academy. The requirements for joining the bootcamp were to complete a self-led Ruby course and to pass an interview. I completed the course, practiced coding exercises, and read a lot to gain as much knowledge as I could, resulting in being accepted to join the course.
+The bootcamp itself required learning a lot of material in a very short time and completing personal challenges over the weekends. I was able to implement my ability to motivate myself and continue to develop my skills to complete the bootcamp.
+
+#### Team Work & Communication
+When working in fast-paced kitchens, teamwork and communication are vital keys to a successful business.
+In my last role at 'Pophams' bakery, I was part of a brand new team that opened a new branch.
+Our task was to open the bakery within the deadline while learning from scratch every step of the process to create the highest-standard pastries.
+To maintain the production line organised and productive, we had to communicate well and work in collaboration. 
+I created a system that helped us to keep track of each others' work, so each of us could start the shift with a clear plan for the day. I also organised a social event to get us all closer, which helped in creating open and friendly communication.
+These actions resulted in organised and well-timed production and helped in opening the bakery within the deadline.
+My experience taught me that little can stand in the way of a dedicated team with a clear goal. This has been the driving force throughout my professional career and still guides me today.
+
+
+#### Problem Solving
+As a sous chef at 'Violet' Bakery, I was in charge of managing the daily production of bespoke cakes orders.
+I once had an incident when a cake order was missing for an important event on the same day. To send the cake for delivery on time I had to improvise and shorten a three-day process into a few hours while maintaining the highest quality of our products. To achieve this, I had to source the missing ingredients from multiple suppliers, I shifted around more flexible orders and used layers of other cakes, made a new batch of icing, and decorated the cake in record time. The cake was delivered on time and we received great feedback from the customer.
 
 ## Hobbies
 
