@@ -74,12 +74,7 @@ These actions resulted in organised and well-timed production and helped in open
 My experience taught me that little can stand in the way of a dedicated team with a clear goal. This has been the driving force throughout my professional career and still guides me today.
 
 
-#### Problem Solving
-As a sous chef at 'Violet' Bakery, I was in charge of managing the daily production of bespoke cakes orders.
-I once had an incident when a cake order was missing for an important event on the same day. To send the cake for delivery on time I had to improvise and shorten a three-day process into a few hours while maintaining the highest quality of our products. To achieve this, I had to source the missing ingredients from multiple suppliers, I shifted around more flexible orders and used layers of other cakes, made a new batch of icing, and decorated the cake in record time. The cake was delivered on time and we received great feedback from the customer.
-
-## Hobbies
-
+## Hobbies and interests
 * Weight lifting- I started training in weight lifting less than a year ago. With no prior experience and within a short time, I managed to learn how to do pull-ups and can hip thrust 137.5 kg! I find learning this new set of skills really empowering and life-changing.
 * Hiking- I love traveling and hiking since I was in the scouts as a kid. My most memorable hikes were to Abel Tasman National park in New Zealand and to Yosemite in California. When traveling isn’t possible, I enjoy long walks in the park with my dog, Alfie.    
 
