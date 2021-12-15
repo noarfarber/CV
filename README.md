@@ -76,5 +76,5 @@ My experience taught me that little can stand in the way of a dedicated team wit
 
 ## Hobbies and interests
 * Weight lifting- I started training in weight lifting less than a year ago. With no prior experience and within a short time, I managed to learn how to do pull-ups and can hip thrust 137.5 kg! I find learning this new set of skills really empowering and life-changing.
-* Hiking- I love traveling and hiking since I was in the scouts as a kid. My most memorable hikes were to Abel Tasman National park in New Zealand and to Yosemite in California. When traveling isn’t possible, I enjoy long walks in the park with my dog, Alfie.    
+* Hiking- I love traveling and hiking since I was in the scouts. My most memorable hikes were to Abel Tasman National park in New Zealand and to Yosemite in California. When traveling isn’t possible, I enjoy long walks in the park with my dog, Alfie.    
 
