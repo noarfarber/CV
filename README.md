@@ -66,11 +66,10 @@ The bootcamp itself required learning a lot of material in a very short time and
 
 #### Team Work & Communication
 When working in fast-paced kitchens, teamwork and communication are vital keys to a successful business.
-In my last role at 'Pophams' bakery, I was part of a brand new team that opened a new branch.
+In my last role at Pophams bakery, I was part of a brand new team that opened a new branch.
 Our task was to open the bakery within the deadline while learning from scratch every step of the process to create the highest-standard pastries.
 To maintain the production line organised and productive, we had to communicate well and work in collaboration. 
-I created a system that helped us to keep track of each others' work, so each of us could start the shift with a clear plan for the day. I also organised a social event to get us all closer, which helped in creating open and friendly communication.
-These actions resulted in organised and well-timed production and helped in opening the bakery within the deadline.
+I created a system that helped us to keep track of each others' work, so each of us could start the shift with a clear plan for the day. The result was an organised and well-timed production and opening the bakery within the deadline.
 My experience taught me that little can stand in the way of a dedicated team with a clear goal. This has been the driving force throughout my professional career and still guides me today.
 
 
