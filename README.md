@@ -12,6 +12,7 @@ I started my programming journey with a Python for beginners course, and I was i
 
 | Project                 | Description       | Tech Stack  |
 | ----------------------- | ----------------- | ----------------- |
+| [React-Hiking-App](https://github.com/noarfarber/React-Hiking-App) | A hiking app, inspired by AllTrails. My first solo React project | React,  JavaScript, Jest, CSS, HTML |
 | [Acebook](https://github.com/noarfarber/Acebook) | A full-stack clone of the Facebook web app, built in a 10-day project with a team of 7 | Ruby on Rails, RSpec, JavaScript, PostgreSQL, CSS, HTML |
 | [Chitter](https://github.com/noarfarber/chitter) | A lightweight Twitter clone, built solo | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS            |
 | [MakersBnB](https://github.com/noarfarber/MakersBnB) |  An Airbnb inspired web app, built in a 1-week group project | Ruby, Rspec, Sinatra, Capybara, PostgreSQL      |
@@ -21,9 +22,9 @@ I started my programming journey with a Python for beginners course, and I was i
 **Pophams Bakery** (July 2019-January 2020)  
 Baker
 
-* Developed new recipes for “Bake for Syria” fundraiser by researching, testing and trialling, selling 600 units over a month 
+* Developed new recipes for the “Bake for Syria” fundraiser by researching, testing and trialling, selling 600 units over a month 
 * Managed daily production of bread and pastries by following precise methods and techniques within a tight schedule to
-ensure the maintenance of highest-quality products
+ensure the maintenance of the highest-quality products
 * Co-launched the bakery’s second branch by collaborating with a team of 6 bakers, setting work methodologies, processes and recipes to fit the venue, leading to a successful launch within the deadline
 
 **Violet Cakes** (April 2017-June 2019)  
@@ -31,7 +32,7 @@ Sous Chef
 
 * Led team of 5 chefs by training and supervising, ensuring quality control, H&S and efficient teamwork, contributing to successfully onboarding 6 bakers over 2 years
 * Managed daily production of cakes and pastries by planning and executing according to changing requirements, assigning duties, managing inventory databases and processing orders, resulting in improved productivity and reduced waste (20%)
-* Produced special orders, under tight production schedules, leading to consistent positive customer feedback as well as being selected to participate in the making of the royal wedding cake 2018
+* Produced special orders, under tight production schedules, leading to consistent positive customer feedback as well as being selected to participate in the making of the royal wedding cake in 2018
 
 **Balthazar Restaurant** (March 2016-April 2017)  
 Chef De Partie
@@ -61,7 +62,7 @@ Diplome De Patisserie
 
 #### Self-learning
 Once I decided to become a developer my task was clear; to learn as much as I can, gain hands-on experience and develop my coding skills.
-I started with a self-led Python for beginners course and found that I enjoy learning on my own. I managed to learn the language without any prior experience with coding. Following this experience, I decided to deepen my knowledge and applied to Makers Academy. The requirements for joining the bootcamp were to complete a self-led Ruby course and to pass an interview. I completed the course, practiced coding exercises, and read a lot to gain as much knowledge as I could, resulting in being accepted to join the course.
+I started with a self-led Python for beginners course and found that I enjoy learning on my own. I managed to learn the language without any prior experience with coding. Following this experience, I decided to deepen my knowledge and applied to Makers Academy. The requirements for joining the bootcamp were to complete a self-led Ruby course and to pass an interview. I completed the course, practised coding exercises, and read a lot to gain as much knowledge as I could, resulting in being accepted to join the course.
 The bootcamp itself required learning a lot of material in a very short time and completing personal challenges over the weekends. I was able to implement my ability to motivate myself and continue to develop my skills to complete the bootcamp.
 
 #### Team Work & Communication
@@ -74,6 +75,5 @@ My experience taught me that little can stand in the way of a dedicated team wit
 
 
 ## Hobbies and interests
-* Weight lifting- I started training in weight lifting less than a year ago. With no prior experience and within a short time, I managed to learn how to do pull-ups and can hip thrust 137.5 kg! I find learning this new set of skills really empowering and life-changing.
-* Hiking- I love traveling and hiking since I was in the scouts. My most memorable hikes were to Abel Tasman National park in New Zealand and to Yosemite in California. When traveling isn’t possible, I enjoy long walks in the park with my dog, Alfie.    
-
+* Weight lifting- I started training in weight lifting about a year ago. With no prior experience and within a short time, I managed to learn how to do pull-ups and can hip thrust 137.5 kg! I find learning this new set of skills empowering and life-changing.
+* Hiking- I love travelling and hiking since my childhood. My most memorable hikes were to Abel Tasman National park in New Zealand and Yosemite in California. When travelling isn’t possible, I enjoy long walks in the park with my dog, Alfie.    
