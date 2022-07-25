@@ -12,7 +12,7 @@ I started my programming journey with a Python for beginners course, and I was i
 
 | Project                 | Description       | Tech Stack  |
 | ----------------------- | ----------------- | ----------------- |
-| [React-Hiking-App](https://github.com/noarfarber/React-Hiking-App) | A hiking app, inspired by AllTrails. My first solo React project | React,  JavaScript, Jest, CSS, HTML |
+| [fridge-savant-server](https://github.com/noarfarber/fridge-savant-server) | A MERN app that lets users make the most of their fridge, built with a team of 6 | MongoDB, Express, React, Node, Jest |
 | [Acebook](https://github.com/noarfarber/Acebook) | A full-stack clone of the Facebook web app, built in a 10-day project with a team of 7 | Ruby on Rails, RSpec, JavaScript, PostgreSQL, CSS, HTML |
 | [Chitter](https://github.com/noarfarber/chitter) | A lightweight Twitter clone, built solo | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS            |
 | [MakersBnB](https://github.com/noarfarber/MakersBnB) |  An Airbnb inspired web app, built in a 1-week group project | Ruby, Rspec, Sinatra, Capybara, PostgreSQL      |
