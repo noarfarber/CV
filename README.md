@@ -1,6 +1,6 @@
 # Noa Farber
 
-I am a recent Makers Academy graduate, an aspiring junior developer and have experience as a pastry chef in some of the top bakeries and restaurants in London. Creating something out of nothing was what drew me into both baking and coding. I take great pleasure in developing products that delight and seek to make an impact on people’s lives.
+I am a Makers Academy graduate, an aspiring junior developer and have experience as a pastry chef in some of the top bakeries and restaurants in London. Creating something out of nothing was what drew me into both baking and coding. I take great pleasure in developing products that delight and seek to make an impact on people’s lives.
 
 I am a detail-oriented problem solver with a passion for delightful user experience and using tech for good.
 After working as a pastry chef for 10 years, I was looking for an intellectual challenge in an environment where I could learn new skills and create beautiful, useful products.
