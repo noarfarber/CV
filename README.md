@@ -57,23 +57,3 @@ Head Baker
 #### Le Cordon Bleu (September 2014-June 2015)
 
 Diplome De Patisserie
-
-## Skills
-
-#### Self-learning
-Once I decided to become a developer my task was clear; to learn as much as I can, gain hands-on experience and develop my coding skills.
-I started with a self-led Python for beginners course and found that I enjoy learning on my own. I managed to learn the language without any prior experience with coding. Following this experience, I decided to deepen my knowledge and applied to Makers Academy. The requirements for joining the bootcamp were to complete a self-led Ruby course and to pass an interview. I completed the course, practised coding exercises, and read a lot to gain as much knowledge as I could, resulting in being accepted to join the course.
-The bootcamp itself required learning a lot of material in a very short time and completing personal challenges over the weekends. I was able to implement my ability to motivate myself and continue to develop my skills to complete the bootcamp.
-
-#### Team Work & Communication
-When working in fast-paced kitchens, teamwork and communication are vital keys to a successful business.
-In my last role at Pophams bakery, I was part of a brand new team that opened a new branch.
-Our task was to open the bakery within the deadline while learning from scratch every step of the process to create the highest-standard pastries.
-To maintain the production line organised and productive, we had to communicate well and work in collaboration. 
-I created a system that helped us to keep track of each others' work, so each of us could start the shift with a clear plan for the day. The result was an organised and well-timed production and opening the bakery within the deadline.
-My experience taught me that little can stand in the way of a dedicated team with a clear goal. This has been the driving force throughout my professional career and still guides me today.
-
-
-## Hobbies and interests
-* Weight lifting- I started training in weight lifting about a year ago. With no prior experience and within a short time, I managed to learn how to do pull-ups and can hip thrust 137.5 kg! I find learning this new set of skills empowering and life-changing.
-* Hiking- I love travelling and hiking since my childhood. My most memorable hikes were to Abel Tasman National park in New Zealand and Yosemite in California. When travelling isn’t possible, I enjoy long walks in the park with my dog, Alfie.    
